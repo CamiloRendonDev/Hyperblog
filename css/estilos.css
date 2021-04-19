@@ -6,7 +6,27 @@ body{
     margin: 0;
     padding: 0;
 }
+#cabecera{
+background: #33a;
+color: white;
+margin: 0;
+box-shadow: -10px -7px 15px 12px rgba(10,10,250,1);
+font-weight: bold;
+padding: 0.5em;
+
+}
+#post{
+    padding: 0;
+}
+#cabecera #tagline{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
+
+}
+
 #container{
+    box-shadow: -17px -7px 15px 12px rgba(50,77,250,1);
     width: 70%;
     padding: 1em;  
     color:gray; 
