@@ -35,6 +35,15 @@ padding: 0.5em;
     font-size: 0.7em;
 
 }
+#post #suscribete{
+
+    text-align: center;
+    background-color: red;
+    font-size:  25px;
+    font-weight: 900;
+    color: rgba(10,10,250,1);
+
+}
 
 #container{
     box-shadow: 0px 2px 20px 10px rgba(50,77,250,1);
