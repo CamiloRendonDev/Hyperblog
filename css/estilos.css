@@ -26,7 +26,7 @@ padding: 0.5em;
 }
 #post{
     background:white;
-    padding: 0;
+    padding: a;
     font-size: 20px;
 }
 #cabecera #tagline{
@@ -34,6 +34,11 @@ padding: 0.5em;
     font-weight: normal;
     font-size: 0.7em;
 
+}
+
+#centrarimg{
+    background-color: black;
+    align-content: center;
 }
 #post #suscribete{
 
@@ -60,4 +65,19 @@ padding: 0.5em;
     color:black;
     text-align: left ;
     font-size: 45px;
+}
+#container h2{
+    color:rgb(202, 8, 8);
+    text-align: center ;
+    font-size: 25px;
+}
+#containerimg{
+   
+   
+    background: white;
+    color:rgb(68, 65, 65); 
+    text-align: center;
+    border: 1px solid rgb(0, 0, 0);
+    margin: 0 auto;
+
 }
